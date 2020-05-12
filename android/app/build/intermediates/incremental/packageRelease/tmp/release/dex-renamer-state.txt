@@ -1,0 +1,4 @@
+#Sun Aug 18 15:47:56 IST 2019
+base.0=/home/mustafa/Documents/auric/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
